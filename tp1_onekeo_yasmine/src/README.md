@@ -1,1 +1,1 @@
-voici tout ce qui est visuel ; images, vidéos, icones, fonts, etc.
+voici mes fichiers css et javaScript
