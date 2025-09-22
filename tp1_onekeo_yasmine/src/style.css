@@ -1,6 +1,8 @@
-body {
-  font-family: "Poppins", sans-serif;
+.pagination {
+  --bs-pagination-color: var(--bs-info);
+  --bs-pagination-active-bg: var(--bs-info);
 }
-.bg-primary {
-  background-color: #7c3aed !important;
+
+body {
+  font-family: "Newsreader", serif;
 }
